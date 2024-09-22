@@ -4,24 +4,24 @@ const chalk = require('chalk')
 //contact details
 global.ownernomer = "2349026678751"
 global.ownername = "kobis LORD 👑"
-global.ytname = "YT: Voltagetechpro"
+global.ytname = "YT: peteroghenekobiruo"
 global.socialm = "GitHub: kobistechmd"
 global.location = "Nigeria, Edo, Benin"
 
-global.ownernumber = '2347045674902'  //creator number
-global.ownername = 'Voltage LORD 👑' //owner name
-global.botname = 'Phoenix-V1' //name of the bot
+global.ownernumber = '2349026678751'  //creator number
+global.ownername = 'kobis LORD 👑' //owner name
+global.botname = 'kobistech md-V1' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'Voltage LORD 👑\n\nContact: +2347045674902'
+global.author = 'kobis LORD 👑\n\nContact: +2349026678751'
 
 //console view/theme
 global.themeemoji = '🪀'
-global.wm = "Voltage Lord."
+global.wm = "kobis Lord."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029ValURVD30LKUWiRSlC47'
+global.link = 'https://whatsapp.com/channel/0029Vabb7YwFSAt31QUidn1k'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
